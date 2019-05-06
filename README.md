@@ -1,3 +1,29 @@
+# La Bernardière
+
+## Refonte fictive du site web de "La Bernardière", cueillette à Orléans
+
+### Objectifs:
+* Site web remis au goût du jour
+* Ajout de nouvelles fonctionnalités
+* Ajout d'une interface administrateur
+
+### Languages-Architecture:
+* HTML 5
+* CSS 3
+* Bootstrap 4
+* Twig
+* PHP 7
+* Modèle MVC
+
+### Contributeurs
+- Guillaume Gallier - [Guisharko](https://github.com/Guisharko)
+- Thierry Stollsteiner - [hellshoxplay](https://github.com/hellshoxplay)
+- Julien Montigny - [Julomontiti](https://github.com/Julomontiti)
+- Vincent Reinoso - [Vigi3](https://github.com/Vigi3)
+- Jessica Viel - [LadyClaudia](https://github.com/LadyClaudia)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 # Simple MVC
 
 ## Description
